@@ -1,1 +1,1 @@
-ctrl+f2
+use ctrl+f2 instead -.-
